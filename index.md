@@ -2,52 +2,59 @@
 nav: false
 ---
 
-[<img src="images/soil_footprint_logo3.png" alt="huella del suelo" style="width:50%;" >](./index.md/)
+<img src="images/Portada_web.png" alt="portada" style="width:50%;" >]
 
 # Introducción a la programación en Python para aplicaciones agroforestales de una manera fácil y amena
 
 El objetivo del curso es la crear una primera inmersión a la programación en Python y explicar conceptos y funciones básicas de una manera amena y accesible a alumnos sin conocimientos previos en programación. Además, este curso pretende mostrar a los alumnos la utilidad de la programación en Python, y como sabiendo unos pocos conceptos básicos pueden mejorar mucho la calidad y eficiencia de su trabajo durante sus estudios universitarios en carreras agroforestales. Todo ello intentando que el alumno perciba la programación como algo fácil y accesible. 
 
-## Introducing the soil footprint project
+## Conceptos basicos
 
-Scientists Andrés Peñuela, Vanesa García Gamero, and Tom Vanwalleghem at the University of Córdoba have been instrumental in defining and applying the concept of the soil footprint in Spain, where soil erosion presents a critical challenge for agricultural sustainability.
+[0 - Crear un Jupyter Notebook](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Untitled.ipynb)
 
-Through their pioneering work, the experts have brought attention to an often-underappreciated yet vital resource: soil.
+[1 - Jupyter Notebooks](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/1%20-%20Jupyter%20Notebooks.ipynb)
 
-Unlike the more widely known carbon and water footprints, this latest footprint specifically focuses on soil – a resource that is frequently overlooked in discussions about environmental sustainability but is just as crucial for supporting life as water, air, or energy.
+[2 - Conceptos basicos de programacion en Python](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/2%20-%20Conceptos%20basicos%20de%20programacion%20en%20Python.ipynb )
 
-## How is the soil footprint calculated?
+[3 – Programacion funcional](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/3%20-%20Programacion%20funcional.ipynb)
 
-Healthy soil is the foundation of productive ecosystems, ensuring food security, biodiversity, and climate resilience.
+[4 – Librerías de funciones externas](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/4%20-%20Librerias%20de%20funciones%20externas.ipynb)
 
-The soil footprint quantifies the amount of soil lost during cultivation, offering a clear metric for evaluating agricultural practices. It is calculated by dividing the erosion rate by the crop’s productivity, providing a tangible way to measure the sustainability of farming techniques.
-
-A larger soil footprint indicates significant soil erosion, which can lead to devastating losses in essential nutrients, biodiversity, and the soil’s ability to retain water.
+[5 – Librerías de funciones externas (continuación)](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/5%20-%20Librerias%20de%20funciones%20externas%20(continuacion).ipynb)
 
 ## Ejemplos
 
-You can run the Notebooks online just by clicking on these links:
+[Ejemplo – Modelo deposito agua](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejemplo%20-%20Modelo%20deposito%20agua.ipynb)
 
-[Understanding the Soil Footprint of Our Diet](https://mybinder.org/v2/gh/Soil-footprint/Soil-footprint/HEAD?urlpath=notebooks/The%20soil%20footprint%20in%20our%20diet.ipynb)
+[Ejemplo – Visualizacion datos cultivos](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejemplo%20-%20Visualizacion%20datos%20cultivos.ipynb)
 
-[The Soil footprint of food consumption in Spain](https://mybinder.org/v2/gh/Soil-footprint/Soil-footprint/HEAD?urlpath=notebooks/The%20soil%20footprint%20in%20Spain.ipynb)
+[Ejemplo – Onda de sonido](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejemplo%20-%20Onda%20de%20sonido.ipynb)
 
-[Soil footprint Github repository](https://github.com/Soil-footprint)
+[Ejemplo – Modelo hidrologico](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejemplo%20-%20Modelo%20hidrologico.ipynb)
 
-## Online questionnaire: we would like to know your opinion about the soil footprint
+[Ejemplo – Fill termperature data gaps](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejemplo%20-%20Fill%20temperature%20data%20gaps.ipynb)
 
-[Soil footprint questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScVE3zPnUdXt65AjO3m6f15aVcy1WSm6C_ElWuUd9qzGDlYDw/viewform?usp=sf_link)
+[Ejemplo – Extract raster elevation data](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejemplo%20-%20Extract%20raster%20elevation.ipynb)
 
-[Encuesta en español](https://docs.google.com/forms/d/e/1FAIpQLSdwH7tF1xyY0JXaccqEDoxydr9HqjI8l9a1lpici4cXrs37qQ/viewform?usp=sf_link)
+[Ejemplo – Extract raster coordinates](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejemplo%20-%20Extract%20raster%20coordinates.ipynb)
 
-## Citation
+[Ejemplo – Spatial interpolation](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejemplo%20-%20Spatial%20interpolation.ipynb)
 
-https://doi.org/10.1016/j.soisec.2024.100156
+[Ejemplo – Optimal sampling](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejemplo%20-%20Optimal%20Samping.ipynb)
 
-## Acknowledgements
-This work was supported by the project “Soil footprint, a simple indicator to communicate and manage soil sustainability in Spain” (SoilFoot) (DU.01.MR.21.07 TED2021-132415B-I00), funded by MCIN/AEI/10.13039/501100011033 and the EU “NextGenerationEU”/PRTR.
+## Ejercicios
+
+[Ejercicios Funciones](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejercicios%20Funciones.ipynb)
+
+[Ejercicios Numpy](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejercicios%20Numpy.ipynb)
+
+[Ejercicios Pandas](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejercicios%20Pandas.ipynb)
+
+[Ejercicios Matplotlib](https://mybinder.org/v2/gh/Curso-Introduccion-Python/Curso-Introduccion-Python/HEAD?urlpath=tree/Ejercicios%20Matplotlib.ipynb)
+
+## Cuestionarios
 
 &nbsp;
 <div class="row">
-  <img src="images/UCO_logo.png" alt="UCO logo" style="width:20%;" hspace="20"> <img src="images/soil_footprint_logo.png" alt="Soil_footprint logo" style="width:10%;" hspace="00">
+  <img src="images/UCO_logo.png" alt="UCO logo" style="width:20%;" hspace="20">
 <div >
