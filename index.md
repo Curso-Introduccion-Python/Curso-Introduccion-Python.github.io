@@ -52,6 +52,16 @@ El objetivo del curso es la crear una primera inmersión a la programación en P
 
 ## Cuestionarios
 
+[Día 1](https://forms.gle/Kmd7WBdip7hzymwa7)
+
+[Día 2](https://forms.gle/CzbAVVp2kBEGALy86)
+
+[Día 3](https://forms.gle/otdCc4QizQ5MZB8m8)
+
+[Día 4](https://forms.gle/3TgMxP8Riu7aCcpY6)
+
+[Día 5](https://forms.gle/317YoMdDgB247AqEA)
+
 &nbsp;
 <div class="row">
   <img src="images/UCO_logo.png" alt="UCO logo" style="width:20%;" hspace="20">
